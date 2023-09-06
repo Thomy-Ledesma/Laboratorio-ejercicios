@@ -1,0 +1,18 @@
+.career_section{
+    padding: 40px;
+    background-color: #333;
+    color:#fff;
+}
+
+.career_section > h2{
+    text-align: center;
+}
+.careers{
+    display: flex;
+}
+.careers > div{
+    padding: 10px;
+}
+.careers > div:hover{
+    background-color: rgba(250, 250, 250, .3)
+}
